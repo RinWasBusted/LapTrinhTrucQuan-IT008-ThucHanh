@@ -18,7 +18,17 @@ namespace MyProgram
                 }
                 else break;
             } while (true);
-            int year = ReadPositiveInt("Nhap nam: ");
+
+            int year;
+            while (true)
+            {
+                year = ReadPositiveInt("Nhap nam: ");
+                if (year < 0)
+                {
+                    Console.WriteLine("Nam khong hop le, moi nhap lai!");
+                }
+                else break;
+            }
 
 
 

@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.LifecycleForm.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB3\Bai1\Bai1\obj\Debug\Bai1.exe.config
