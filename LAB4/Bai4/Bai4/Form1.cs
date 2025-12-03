@@ -159,7 +159,6 @@ namespace Bai4
             {
                 SaveFileDialog sv = new SaveFileDialog();
                 sv.Filter = "Rich Text Format (*.rtf)|*.rtf";
-
                 if (sv.ShowDialog() == DialogResult.OK)
                 {
                     currentFilePath = sv.FileName;

@@ -70,6 +70,7 @@ namespace Bai6
                         {
                             progressBar1.Value = i + 1;
                             copyStatus.Text = "Đang sao chép: " + fileName;
+                            toolTip1.SetToolTip(toolStrip1, "Đang sao chép: " + fileName);
                         }));
                         System.Threading.Thread.Sleep(1000); // Giả lập thời gian sao chép
                     }
@@ -85,6 +86,7 @@ namespace Bai6
             {
                 button1.Enabled = true;
                 copyStatus.Text = "Hoàn thành!";
+                toolTip1.SetToolTip(toolStrip1, "Hoàn thành sao chép");
             }
         }
 
