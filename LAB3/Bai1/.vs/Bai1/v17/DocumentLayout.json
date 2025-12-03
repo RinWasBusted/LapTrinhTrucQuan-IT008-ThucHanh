@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab3\\bai1\\bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab3\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab3\\bai1\\bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab3\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab3\\bai1\\bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A9D45E-D7B7-4757-8AEC-170E7E37F0EB}|Bai1\\Bai1.csproj|solutionrelative:bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bai1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Program.cs",
               "RelativeDocumentMoniker": "Bai1\\Program.cs",
@@ -61,47 +53,23 @@
               "RelativeDocumentMoniker": "Bai1\\Form1.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form1.cs",
               "RelativeToolTip": "Bai1\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T21:11:21.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form2.cs",
               "RelativeDocumentMoniker": "Bai1\\Form2.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form2.cs",
               "RelativeToolTip": "Bai1\\Form2.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T21:04:17.522Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form2.cs",
-              "RelativeDocumentMoniker": "Bai1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form2.cs [Design]",
-              "RelativeToolTip": "Bai1\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T21:02:56.033Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form1.cs",
-              "RelativeDocumentMoniker": "Bai1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB3\\Bai1\\Bai1\\Form1.cs [Design]",
-              "RelativeToolTip": "Bai1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T20:59:45.475Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
