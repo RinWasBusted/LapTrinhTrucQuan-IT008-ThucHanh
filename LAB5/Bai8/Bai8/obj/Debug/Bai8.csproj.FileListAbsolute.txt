@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\bin\Debug\Bai8.exe.config
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\bin\Debug\Bai8.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\bin\Debug\Bai8.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.Form1.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.Properties.Resources.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai8\Bai8\obj\Debug\Bai8.exe.config

@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\bin\Debug\Bai9.exe.config
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\bin\Debug\Bai9.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\bin\Debug\Bai9.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.exe
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.pdb
+C:\Users\Dell\Desktop\Lập trình trực quan\Thực hành\LAB5\Bai9\Bai9\obj\Debug\Bai9.exe.config
