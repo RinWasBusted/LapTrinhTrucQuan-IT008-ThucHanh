@@ -125,7 +125,7 @@
             this.cmbSize.Name = "cmbSize";
             this.cmbSize.Size = new System.Drawing.Size(121, 27);
             this.cmbSize.TabIndex = 6;
-            this.cmbSize.Text = "28";
+            this.cmbSize.Text = "10";
             this.cmbSize.SelectedValueChanged += new System.EventHandler(this.cmbSize_SelectedValueChanged);
             this.cmbSize.TextChanged += new System.EventHandler(this.cmbSize_TextChanged);
             // 
@@ -208,7 +208,7 @@
             // 
             // txtSample
             // 
-            this.txtSample.Font = new System.Drawing.Font("Arial", 28.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSample.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSample.Location = new System.Drawing.Point(192, 169);
             this.txtSample.Multiline = true;
             this.txtSample.Name = "txtSample";

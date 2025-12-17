@@ -108,5 +108,6 @@ namespace Bai8
                 g.FillPolygon(brush, points);
             }
         }
+
     }
 }

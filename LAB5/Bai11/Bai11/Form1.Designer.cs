@@ -29,18 +29,18 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.radioEllipse = new System.Windows.Forms.RadioButton();
+            this.radioRectangle = new System.Windows.Forms.RadioButton();
             this.radioLine = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.numWidth = new System.Windows.Forms.NumericUpDown();
             this.btnColor = new System.Windows.Forms.Button();
-            this.radioRectangle = new System.Windows.Forms.RadioButton();
-            this.radioEllipse = new System.Windows.Forms.RadioButton();
+            this.numWidth = new System.Windows.Forms.NumericUpDown();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.radioGradient = new System.Windows.Forms.RadioButton();
             this.radioTexture = new System.Windows.Forms.RadioButton();
             this.radioHatch = new System.Windows.Forms.RadioButton();
             this.radioSolid = new System.Windows.Forms.RadioButton();
-            this.radioGradient = new System.Windows.Forms.RadioButton();
             this.panel1 = new System.Windows.Forms.Panel();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -59,6 +59,30 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Shapes";
+            // 
+            // radioEllipse
+            // 
+            this.radioEllipse.AutoSize = true;
+            this.radioEllipse.Location = new System.Drawing.Point(6, 74);
+            this.radioEllipse.Name = "radioEllipse";
+            this.radioEllipse.Size = new System.Drawing.Size(69, 20);
+            this.radioEllipse.TabIndex = 2;
+            this.radioEllipse.TabStop = true;
+            this.radioEllipse.Text = "Ellipse";
+            this.radioEllipse.UseVisualStyleBackColor = true;
+            this.radioEllipse.CheckedChanged += new System.EventHandler(this.radioEllipse_CheckedChanged);
+            // 
+            // radioRectangle
+            // 
+            this.radioRectangle.AutoSize = true;
+            this.radioRectangle.Location = new System.Drawing.Point(6, 47);
+            this.radioRectangle.Name = "radioRectangle";
+            this.radioRectangle.Size = new System.Drawing.Size(90, 20);
+            this.radioRectangle.TabIndex = 1;
+            this.radioRectangle.TabStop = true;
+            this.radioRectangle.Text = "Rectangle";
+            this.radioRectangle.UseVisualStyleBackColor = true;
+            this.radioRectangle.CheckedChanged += new System.EventHandler(this.radioRectangle_CheckedChanged);
             // 
             // radioLine
             // 
@@ -85,14 +109,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Pen";
             // 
-            // label1
+            // btnColor
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(6, 27);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 16);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Width:";
+            this.btnColor.Location = new System.Drawing.Point(46, 75);
+            this.btnColor.Name = "btnColor";
+            this.btnColor.Size = new System.Drawing.Size(91, 23);
+            this.btnColor.TabIndex = 3;
+            this.btnColor.Text = "Color...";
+            this.btnColor.UseVisualStyleBackColor = true;
+            this.btnColor.Click += new System.EventHandler(this.btnColor_Click);
             // 
             // numWidth
             // 
@@ -106,38 +131,14 @@
             0,
             0});
             // 
-            // btnColor
+            // label1
             // 
-            this.btnColor.Location = new System.Drawing.Point(46, 75);
-            this.btnColor.Name = "btnColor";
-            this.btnColor.Size = new System.Drawing.Size(91, 23);
-            this.btnColor.TabIndex = 3;
-            this.btnColor.Text = "Color...";
-            this.btnColor.UseVisualStyleBackColor = true;
-            // 
-            // radioRectangle
-            // 
-            this.radioRectangle.AutoSize = true;
-            this.radioRectangle.Location = new System.Drawing.Point(6, 47);
-            this.radioRectangle.Name = "radioRectangle";
-            this.radioRectangle.Size = new System.Drawing.Size(90, 20);
-            this.radioRectangle.TabIndex = 1;
-            this.radioRectangle.TabStop = true;
-            this.radioRectangle.Text = "Rectangle";
-            this.radioRectangle.UseVisualStyleBackColor = true;
-            this.radioRectangle.CheckedChanged += new System.EventHandler(this.radioRectangle_CheckedChanged);
-            // 
-            // radioEllipse
-            // 
-            this.radioEllipse.AutoSize = true;
-            this.radioEllipse.Location = new System.Drawing.Point(6, 74);
-            this.radioEllipse.Name = "radioEllipse";
-            this.radioEllipse.Size = new System.Drawing.Size(69, 20);
-            this.radioEllipse.TabIndex = 2;
-            this.radioEllipse.TabStop = true;
-            this.radioEllipse.Text = "Ellipse";
-            this.radioEllipse.UseVisualStyleBackColor = true;
-            this.radioEllipse.CheckedChanged += new System.EventHandler(this.radioEllipse_CheckedChanged);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(6, 27);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(44, 16);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Width:";
             // 
             // groupBox3
             // 
@@ -151,6 +152,17 @@
             this.groupBox3.TabIndex = 3;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Brushes";
+            // 
+            // radioGradient
+            // 
+            this.radioGradient.AutoSize = true;
+            this.radioGradient.Location = new System.Drawing.Point(6, 100);
+            this.radioGradient.Name = "radioGradient";
+            this.radioGradient.Size = new System.Drawing.Size(150, 20);
+            this.radioGradient.TabIndex = 3;
+            this.radioGradient.Text = "LinearGradientBrush";
+            this.radioGradient.UseVisualStyleBackColor = true;
+            this.radioGradient.CheckedChanged += new System.EventHandler(this.radioGradient_CheckedChanged);
             // 
             // radioTexture
             // 
@@ -186,17 +198,6 @@
             this.radioSolid.Text = "SolidBrush";
             this.radioSolid.UseVisualStyleBackColor = true;
             this.radioSolid.CheckedChanged += new System.EventHandler(this.radioSolid_CheckedChanged);
-            // 
-            // radioGradient
-            // 
-            this.radioGradient.AutoSize = true;
-            this.radioGradient.Location = new System.Drawing.Point(6, 100);
-            this.radioGradient.Name = "radioGradient";
-            this.radioGradient.Size = new System.Drawing.Size(150, 20);
-            this.radioGradient.TabIndex = 3;
-            this.radioGradient.Text = "LinearGradientBrush";
-            this.radioGradient.UseVisualStyleBackColor = true;
-            this.radioGradient.CheckedChanged += new System.EventHandler(this.radioGradient_CheckedChanged);
             // 
             // panel1
             // 

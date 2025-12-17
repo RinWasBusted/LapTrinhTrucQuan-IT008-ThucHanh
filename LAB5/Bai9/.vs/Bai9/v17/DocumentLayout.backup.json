@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{05ECE0FB-842C-4182-B76B-30B7477D8FE6}|Bai9\\Bai9.csproj|solutionrelative:bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05ECE0FB-842C-4182-B76B-30B7477D8FE6}|Bai9\\Bai9.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab5\\bai9\\bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{05ECE0FB-842C-4182-B76B-30B7477D8FE6}|Bai9\\Bai9.csproj|C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai9\\bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{05ECE0FB-842C-4182-B76B-30B7477D8FE6}|Bai9\\Bai9.csproj|solutionrelative:bai9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Bai9\\Form1.cs",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai9\\Bai9\\Form1.cs",
               "RelativeToolTip": "Bai9\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T16:37:16.774Z",
               "EditorCaption": ""
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai9\\Bai9\\Form1.cs [Design]",
               "RelativeToolTip": "Bai9\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T16:26:01.869Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-16T16:26:01.869Z"
             }
           ]
         }

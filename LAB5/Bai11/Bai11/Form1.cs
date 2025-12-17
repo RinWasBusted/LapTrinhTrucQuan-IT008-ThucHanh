@@ -218,5 +218,14 @@ namespace Bai11
                 selectedBrush = "Gradient";
             }
         }
+
+        private void btnColor_Click(object sender, EventArgs e)
+        {
+            var colorDialog = new ColorDialog();
+            if (colorDialog.ShowDialog() == DialogResult.OK)
+            {
+                selectedColor = colorDialog.Color;
+            }
+        }
     }
 }

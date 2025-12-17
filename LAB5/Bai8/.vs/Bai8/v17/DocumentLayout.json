@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab5\\bai8\\bai8\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai8\\bai8\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|solutionrelative:bai8\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|c:\\users\\dell\\desktop\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\th\u1EF1c h\u00E0nh\\lab5\\bai8\\bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9A9CD6-A514-4113-B79A-2E3476CDBFB0}|Bai8\\Bai8.csproj|solutionrelative:bai8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +35,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai8\\Bai8\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai8\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Th\u1EF1c h\u00E0nh\\LAB5\\Bai8\\Bai8\\Form1.cs",
+              "RelativeToolTip": "Bai8\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:11:51.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
